@@ -132,7 +132,7 @@ for file_name in files_to_check:
     print(list(df.columns[:15]))
     print()
 
-!pip install pyreadstat
+
 
 import pandas as pd
 import os
