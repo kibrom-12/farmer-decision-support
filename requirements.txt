@@ -1,0 +1,6 @@
+gradio
+pandas
+pyreadstat
+scikit-learn
+joblib
+requests
