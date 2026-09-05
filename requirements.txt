@@ -1,6 +1,4 @@
 gradio
-pandas
-pyreadstat
-scikit-learn
 joblib
-requests
+scikit-learn
+pandas
